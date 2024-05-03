@@ -1,0 +1,9 @@
+List after adding an element: [1, 2, 3, 4, 5, 6]
+List after removing an element: [1, 2, 4, 5, 6]
+List after modifying an element: [10, 2, 4, 5, 6]
+Dictionary after adding a key-value pair: {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+Dictionary after removing a key-value pair: {'a': 1, 'c': 3, 'd': 4}
+Dictionary after modifying a value: {'a': 10, 'c': 3, 'd': 4}
+Set after adding an element: {1, 2, 3, 4, 5, 6}
+Set after removing an element: {1, 2, 4, 5, 6}
+Set after modifying an element: {2, 4, 5, 6, 10}
